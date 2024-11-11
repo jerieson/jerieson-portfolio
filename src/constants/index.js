@@ -14,11 +14,6 @@ import {
   mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   promptopia,
   threejs,
   carepulse,
@@ -108,17 +103,12 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
 ];
 
 const experiences = [
   {
     title: "Software Engineer",
-    company_name: "Macqy Garcia Consultancy",
-    icon: starbucks,
+    // company_name: "Macqy Garcia Consultancy",
     iconBg: "#383E56",
     date: "Sept 2023 - Present",
     points: [
